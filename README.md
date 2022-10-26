@@ -36,5 +36,5 @@ https://sequencediagram.org/index.html#initialData=FAYQNglgpgdgLgWgHwGUoCcBuGBcA
 -регистрация
   https://github.com/tagathlet/3sem_lr1/blob/main/signup.drawio.png
   
--Выход из аккаунта
+-выход из аккаунта
   https://github.com/tagathlet/3sem_lr1/blob/main/signoff.drawio.png
