@@ -31,8 +31,8 @@ https://sequencediagram.org/index.html#initialData=FAYQNglgpgdgLgWgHwGUoCcBuGBcA
 
 ## Алгоритмы
 -вход в аккаунт
-https://github.com/tagathlet/3sem_lr1/blob/main/signin.drawio.png
+  https://github.com/tagathlet/3sem_lr1/blob/main/signin.drawio.png
 -регистрация
-https://github.com/tagathlet/3sem_lr1/blob/main/signup.drawio.png
+  https://github.com/tagathlet/3sem_lr1/blob/main/signup.drawio.png
 -Выход из аккаунта
- https://github.com/tagathlet/3sem_lr1/blob/main/signoff.drawio.png
+  https://github.com/tagathlet/3sem_lr1/blob/main/signoff.drawio.png
